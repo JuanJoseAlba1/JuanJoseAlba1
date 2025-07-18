@@ -16,11 +16,8 @@ Aquí encontrarás proyectos que reflejan mi pasión por la **calidad del softwa
 
 
 -----English-----
-- Sure! Here’s your text translated into English, keeping the same style and tone:
 
----
-
-* 👋 Hi! I’m Juan José, a Software Engineer with experience in QA Automation, web development, and data analysis. Since 2022, I’ve worked across various industries, leading initiatives ranging from E2E test automation to creating solutions that optimize operational processes and environmental sustainability.
+- 👋 Hi! I’m Juan José, a Software Engineer with experience in QA Automation, web development, and data analysis. Since 2022, I’ve worked across various industries, leading initiatives ranging from E2E test automation to creating solutions that optimize operational processes and environmental sustainability.
 
 I have collaborated with major companies, where I led the development of internal systems that increased company profits and reduced errors in logistics processes. I’ve also worked as a freelance web developer, taught personalized Python classes, and participated in automation projects.
 
@@ -33,9 +30,7 @@ Here you’ll find projects that reflect my passion for **software quality**, **
 * 📧 jj.albaarango@gmail.com
 * 🌐 [LinkedIn](https://www.linkedin.com/in/juan-josé-alba-arango/)
 
----
 
-Want me to help you format it as a ready-to-use GitHub README file?
 
 
 <!---
